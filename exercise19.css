@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+fieldset {
+  margin-top: 40px;
+  border: 2px solid #00cccc;
+  width: 600px;
+  background-color: #e6ffff;
+  padding: 15px;
+}
+h2 {
+  text-align: center;
+  background-color: #ff6666;
+  color: white;
+  padding: 5px 10px;
+  font-size: 400;
+}
+section {
+  background-color: #e7dae8;
+  padding: 15px;
+  line-height: 1.4;
+}
+td {
+  padding-right: 50px;
+}
+.btn {
+  padding: 2px;
+  background-color: rgb(230, 224, 224);
+  color: black;
+  border: 1px solid;
+}
+section > input {
+  width: 400px;
+  height: 30px;
+}
